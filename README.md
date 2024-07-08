@@ -1,4 +1,4 @@
 # dream-company
 This is my Repository. 
 <br>
-Author- Sneha Bajoria 
+Author- Sneha  Shivam Bajoria 
